@@ -4,7 +4,7 @@ import (
 	"flag"
 	"log"
 
-	"github.com/gitbnw/kin/convert"
+	"github.com/gitbnw/dot-dash/convert"
 )
 
 func main() {
